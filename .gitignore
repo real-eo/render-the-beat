@@ -1,0 +1,10 @@
+# Rescource files
+*.osr
+*.osu
+*.zip
+*.osz
+
+# Generated files
+*.log
+*.tmp
+out/*
