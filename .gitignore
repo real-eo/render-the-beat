@@ -1,3 +1,19 @@
-*
-!.gitignore
-!README.md
+# Visual Studio files
+.vscode/
+
+# Python files
+__pycache__/
+*.pyc
+
+
+# Rescource files
+*.osr
+*.osu
+*.zip
+*.osz
+
+# Generated files
+*.log
+*.tmp
+out/**
+
